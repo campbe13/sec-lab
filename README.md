@@ -5,7 +5,7 @@ to run a brute force password check against your system.  If you wish you can fe
 Be sure to run your tests against
 1. port 8222 (against the cowrie honeypot)
 2. port 22 against your sshd
-__Note__ with great power comes great responsibility, you must not use these tools against any devices other than your partner's VM 
+__Note__ with great power comes great responsibility, you must not use these tools against any devices other than your partner's VM [professional conduct](https://www.dawsoncollege.qc.ca/computer-science-technology/professional-conduct/)
 ## Use hydra
 ```
 apt install hydra
