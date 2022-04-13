@@ -46,7 +46,9 @@ First look at the files in [wordlists](/wordlists)  Choose a few to run all of t
 ```
 apt install hydra
 ```
-First look at the files in [wordlists](/wordlists)  Choose a few to run all of the below tests against sshd & the honeypot.   Before you start add add a couple of the userids you created and their passwords to the files you will use. 
+First look at the files in [wordlists](/wordlists)  Choose a few to run all of the below tests against sshd & the honeypot.   Before you start add add a couple of the userids you created and their passwords to the files you will use.   
+
+use the verbose option to see more information
 ### bruteforcing passwords
 brute-force ssh passwords with a known username, the syntax is
 * `$ hydra -l <username> -P <path to wordlist> <IP> ssh`
