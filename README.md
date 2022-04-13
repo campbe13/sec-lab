@@ -7,7 +7,6 @@ to run a brute force password check against your system.
 
 ### Install Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server.
 [ssb](https://github.com/kitabisa/ssb/)
-```
 ```bash
 curl -sSfL 'https://git.io/kitabisa-ssb' | sh -s -- -b /usr/local/bin
 ```
