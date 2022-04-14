@@ -1,5 +1,5 @@
 # Security lab
-Do this with a  parter, alternate between each other's systems as attacker. 
+Do this with a  partner, alternate between each other's systems as attacker. 
 
 You will be running cowrie in a container on your system.  Use the [wordlists](/wordlists) in the directory here
 to run a brute force password check against your system.  If you wish you can fetch more with [wordlistctl](https://github.com/BlackArch/wordlistctl)
